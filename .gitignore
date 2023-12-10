@@ -1,0 +1,9 @@
+# User-specific stuff
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+
+cmake-build-*/
+
+# Big file (generate your own)
+sample-files/40GiB_file
